@@ -18,17 +18,16 @@
 ```
 ## About Me
 
--   ðŸŽ“ B.Tech (ECE), Institute of Engineering & Management, Kolkata
+ B.Tech (ECE), Institute of Engineering & Management, Kolkata
     (2029)
--   ðŸ“ Dum Dum, Kolkata, India
--   ðŸ’» Python, C, HTML, CSS
--   ðŸ¤– Interested in AI/ML, Software Engineering and Full-Stack
-    Development
--   ðŸ“« mayukhbhttchrj@gmail.com
+   Dum Dum, Kolkata, India
+Python, C, HTML, CSS
+Interested in AI/ML, Software Engineering and Full-Stack Development
+    mayukhbhttchrj@gmail.com
 
 ## Connect
 
--   GitHub: https://github.com/mayukh-byte
+-   GitHub: https://github.com/mayukhbyte
 -   LinkedIn: https://www.linkedin.com/in/mayukh-bhattacharjee-607522389
 
 ## Tech Stack
