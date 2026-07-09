@@ -1,1 +1,92 @@
-# README.md
+# Mayukh Bhattacharjee
+
+> Enterprise-style GitHub profile for **mayukh-byte**
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Mayukh%20Bhattacharjee&fontSize=42&fontColor=ffffff"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?lines=B.Tech+ECE+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=700&height=45"/>`{=html}
+```{=html}
+</p>
+```
+## About Me
+
+-   ðŸŽ“ B.Tech (ECE), Institute of Engineering & Management, Kolkata
+    (2029)
+-   ðŸ“ Dum Dum, Kolkata, India
+-   ðŸ’» Python, C, HTML, CSS
+-   ðŸ¤– Interested in AI/ML, Software Engineering and Full-Stack
+    Development
+-   ðŸ“« mayukhbhttchrj@gmail.com
+
+## Connect
+
+-   GitHub: https://github.com/mayukh-byte
+-   LinkedIn: https://www.linkedin.com/in/mayukh-bhattacharjee-607522389
+
+## Tech Stack
+
+![Python](https://skillicons.dev/icons?i=python,c,html,css,git,github,vscode)
+
+## Featured Project
+
+### Electric Vehicle with Solar Panel and AI Surveillance for Employees
+
+  Area    Details
+  ------- ------------------------------------------------------------
+  Stack   Python, Embedded Systems
+  Focus   Renewable Energy + AI Monitoring
+  Goal    Smart employee surveillance with solar-powered EV solution
+
+## Certifications
+
+-   NPTEL
+-   Microsoft
+-   Google
+
+## GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mayukh-byte&show_icons=true&theme=tokyonight)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukh-byte&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=mayukh-byte&theme=tokyonight)
+
+## Activity Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayukh-byte&theme=tokyo-night)
+
+## Current Focus
+
+``` yaml
+learning:
+  - AI
+  - Machine Learning
+building:
+  - Smart EV Systems
+exploring:
+  - Open Source
+open_to:
+  - Internships
+  - Collaboration
+```
+
+------------------------------------------------------------------------
+
+*"Code with curiosity. Build with purpose."*
+
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>`{=html}
+```{=html}
+</p>
+```
