@@ -65,10 +65,3 @@ open_to:
 
 *"Code with curiosity. Build with purpose."*
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>`{=html}
-```{=html}
-</p>
-```
