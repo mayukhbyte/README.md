@@ -1,21 +1,4 @@
 # Mayukh Bhattacharjee
-
-> Enterprise-style GitHub profile for **mayukh-byte**
-
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Mayukh%20Bhattacharjee&fontSize=42&fontColor=ffffff"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?lines=B.Tech+ECE+Student;Python+Developer;AI+Enthusiast;Open+Source+Learner&center=true&width=700&height=45"/>`{=html}
-```{=html}
-</p>
-```
 ## About Me
 
 -   🎓 B.Tech (ECE), Institute of Engineering & Management, Kolkata
@@ -83,10 +66,4 @@ open_to:
 
 *"Code with curiosity. Build with purpose."*
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>`{=html}
-```{=html}
-</p>
-```
+
